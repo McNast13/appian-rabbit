@@ -1,0 +1,6 @@
+com/example/messagingrabbitmq/Receiver.java
+ com.example.messagingrabbitmq.Receiver
+com/example/messagingrabbitmq/MessagingRabbitmqApplication.java
+ com.example.messagingrabbitmq.MessagingRabbitmqApplication
+com/example/messagingrabbitmq/Runner.java
+ com.example.messagingrabbitmq.Runner
